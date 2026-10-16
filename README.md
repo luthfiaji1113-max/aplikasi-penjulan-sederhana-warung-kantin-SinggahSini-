@@ -1,2 +1,13 @@
-# aplikasi-penjulan-sederhana-warung-kantin-SinggahSini-
-Aplikasi ini di rancang untuk mempercepat transaksi pembelian makanan dan minuman.
+# Aplikasi Penjualan Sederhana Warung Kantin Singgah Sini
+
+Aplikasi ini dirancang untuk mempercepat transaksi pembelian makanan dan minuman di warung/kantin "Singgah Sini".
+
+## Fitur
+- Pencatatan transaksi pembelian
+- Manajemen stok barang
+- Laporan penjualan harian
+
+## Teknologi
+- HTML
+- CSS
+- JavaScript
